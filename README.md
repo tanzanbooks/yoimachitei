@@ -5,7 +5,7 @@
 
 ## まず読む
 
-1. [法案一覧](INDEX.md)を開きます。
+1. [法案資料を読む](bills/BILLS_HOME.md)
 2. 気になる法案の「提出時法律案」をクリックします。
 3. 本文冒頭の出典リンクから、公式の原文も確認できます。
 4. [検討メモ](https://github.com/tanzanbooks/yoimachitei/blob/main/discussion.md)に感想や論点を書きます。
